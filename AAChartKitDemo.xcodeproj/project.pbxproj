@@ -189,6 +189,7 @@
 		645E59531E8403710039A0A1 /* SpecialChartVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpecialChartVC.h; sourceTree = "<group>"; };
 		64AF875E1F0A981400A801C4 /* OnlyRefreshChartDataVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnlyRefreshChartDataVC.h; sourceTree = "<group>"; };
 		64AF875F1F0A981400A801C4 /* OnlyRefreshChartDataVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnlyRefreshChartDataVC.m; sourceTree = "<group>"; };
+		6B60B15121D21A5F009B458A /* AAChartKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = AAChartKit.podspec; sourceTree = "<group>"; };
 		713191131E80B32000382A09 /* IMG_1867.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1867.JPG; sourceTree = "<group>"; };
 		713191151E80B32800382A09 /* IMG_1866.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1866.JPG; sourceTree = "<group>"; };
 		713191171E80B32C00382A09 /* IMG_1865.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1865.JPG; sourceTree = "<group>"; };
@@ -394,6 +395,7 @@
 		7172A3CA1E763EA6000D5B99 = {
 			isa = PBXGroup;
 			children = (
+				6B60B15121D21A5F009B458A /* AAChartKit.podspec */,
 				1E66D1BB210AF4EC007EAB8C /* AAChartKitLib */,
 				7172A3D51E763EA6000D5B99 /* AAChartKitDemo */,
 				7172A3EF1E763EA6000D5B99 /* AAChartKitDemoTests */,
